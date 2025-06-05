@@ -6,15 +6,6 @@ Hệ thống quản lý thư viện là một ứng dụng web được xây d�
 - Thêm, sửa, xóa sách.
 - Gắn sách với nhiều tác giả và thể loại.
 - Theo dõi số lượng bản sao còn lại.
-- Ghi chú sách bị hư hỏng.
-
-### Quản Lý Tác Giả
-- Thêm, sửa, xóa tác giả.
-- Xem danh sách sách của từng tác giả.
-
-### Quản Lý Thể Loại
-- Thêm, sửa, xóa thể loại sách.
-- Xem sách theo từng thể loại.
 
 ### Quản Lý Thành Viên
 - Đăng ký thành viên mới.
@@ -29,10 +20,7 @@ Hệ thống quản lý thư viện là một ứng dụng web được xây d�
 - 
 ##  Công Nghệ Sử Dụng
 
-- **Laravel**: Framework PHP cho backend.
-- **MySQL**: Quản trị cơ sở dữ liệu.
-- **HTML/CSS/JavaScript**: Giao diện người dùng.
-- **Composer**: Quản lý các gói và thư viện PHP.
+.
 
 
 
